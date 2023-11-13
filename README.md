@@ -1,6 +1,6 @@
 # Hi there 👋
 
-### I am valium007
+### I am Valium007
 
 - 🔭 I‘m interested in OS internals.
 - 🌱 I’m currently learning low level stuff.
